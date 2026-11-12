@@ -37,19 +37,21 @@ h3{
     font-size: 18px;
     font-style: italic;
 }
-
+h5{
+    font-size: 18px
+}
 .musica{
     display: flex;
     text-align: start;
-    font-size: 16px;
+    font-size: 18px;
 }
 .texto{
     display: flex;
     text-align: start;
-    font-size: 16px;
+    font-size: 18px;
 }
 
 .data{
     text-align: end;
-    font-size: 16px;
+    font-size: 18px;
 }
