@@ -25,6 +25,7 @@ h1{
 }
 
 .divTotal{
+    margin-top: 0px;
     display: flex;
     flex-direction: column;
     margin: auto;
