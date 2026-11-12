@@ -14,7 +14,7 @@ footer{
 }
 
 h1{
-    margin: auto;
+    margin-bottom: 0px
     margin-top: 2%;
     display: flex;
     flex-direction: column;
@@ -34,24 +34,24 @@ h1{
 }
 
 h3{
-    font-size: 18px;
+    font-size: 22px;
     font-style: italic;
 }
 h5{
-    font-size: 18px
+    font-size: 20px
 }
 .musica{
     display: flex;
     text-align: start;
-    font-size: 18px;
+    font-size: 20px;
 }
 .texto{
     display: flex;
     text-align: start;
-    font-size: 18px;
+    font-size: 20px;
 }
 
 .data{
     text-align: end;
-    font-size: 18px;
+    font-size: 20px;
 }
