@@ -46,23 +46,23 @@ h3{
 .musica{
     display: flex;
     text-align: start;
-    font-size: 20px;
+    font-size: 18px;
 
 }
 .texto{
     display: flex;
     text-align: start;
-    font-size: 20px;
+    font-size: 18px;
 }
 
 .divPoema{
-     font-size: 20px;
+     font-size: 18px;
      font-family: "Zeyada", cursive;
      font-weight: 600;
 }
 
 .data{
     text-align: end;
-    font-size: 20px;
+    font-size: 18px;
     margin: 6%;
 }
