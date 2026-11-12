@@ -40,6 +40,7 @@ h3{
 }
 .poema{
     font-size: 22px;
+    
 }
 .musica{
     display: flex;
@@ -54,7 +55,7 @@ h3{
 }
 
 .divPoema{
-     font-family: crispo, sans-serif;
+     font-family: "Zeyada", cursive;
      font-size: 16px;
      font-weight: 600;
 }
