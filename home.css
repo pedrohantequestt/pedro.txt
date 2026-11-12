@@ -4,7 +4,7 @@ body{
     display: flex;
     flex-direction: column;
     min-height: 100vh;
-    font-family: sans-serif;
+     font-family: sans-serif;
 }
 
 footer{
@@ -20,7 +20,7 @@ h1{
     display: flex;
     flex-direction: column;
     text-align: center;
-    font-size: 26px;
+    font-size: 22px;
     color: rgb(244, 228, 199);
 }
 
@@ -35,33 +35,35 @@ h1{
 }
 
 h3{
-    font-size: 24px;
-    font-style: sans-serif;
+    font-size: 18px;
+    font-family: sans-serif
 }
 .poema{
-    font-size: 22px;
-    
+    font-size: 18px;
+    c
 }
+
 .musica{
     display: flex;
     text-align: start;
-    font-size: 22px;
-}
+    font-size: 16px;
 
+}
 .texto{
     display: flex;
     text-align: start;
-    font-size: 22px;
+    font-size: 16px;
 }
 
 .divPoema{
-     font-family: "Zeyada", cursive;
+     font-family: crispo, sans-serif;
      font-size: 16px;
+     font-family: "Zeyada", cursive;
      font-weight: 600;
 }
 
 .data{
     text-align: end;
-    font-size: 22px;
+    font-size: 16px;
     margin: 6%;
 }
