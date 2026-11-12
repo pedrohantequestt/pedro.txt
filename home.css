@@ -5,7 +5,6 @@ body{
     flex-direction: column;
     min-height: 100vh;
     font-family: sans-serif;
-
 }
 
 footer{
@@ -23,8 +22,6 @@ h1{
     text-align: center;
     font-size: 26px;
     color: rgb(244, 228, 199);
-    
- 
 }
 
 .divTotal{
@@ -43,7 +40,6 @@ h3{
 }
 .poema{
     font-size: 22px;
-    font-family: sans-serif;
 }
 .musica{
     display: flex;
@@ -60,7 +56,6 @@ h3{
 .divPoema{
      font-family: crispo, sans-serif;
      font-size: 16px;
-     font-family: "Zeyada", cursive;
      font-weight: 600;
 }
 
