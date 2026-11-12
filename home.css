@@ -46,14 +46,14 @@ h3{
 
 .musica{
     display: flex;
-    text-align: justify;
+    text-align: start;
     font-size: 24px;
     font-family: "EB Garamond", serif;
 
 }
 .texto{
     display: flex;
-    text-align: justify;
+    text-align: start;
     font-size: 24px;
      font-family: "EB Garamond", serif;
 
