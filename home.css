@@ -1,0 +1,65 @@
+body{
+    background: #278220;
+    color: rgb(244, 228, 199);
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+footer{
+    text-align: center;
+    padding: 20px;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+a{
+    margin: auto;
+    margin-top: 2%;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    text-decoration: none;
+    font-size: 28px;
+    font-style: italic;
+    font-weight: bolder;
+    color: rgb(244, 228, 199);
+    width:fit-content;
+    background: #e12020e1;
+    padding: 1%;
+    border-radius: 20px;
+}
+
+.divTotal{
+    flex-direction: column;
+    gap: 20px;
+    margin: auto;
+    padding: 3%;
+    max-width: 800px;
+    letter-spacing: 2px;
+}
+
+h3{
+    font-size: 26px;
+    font-style: italic;
+}
+
+.musica{
+    display: flex;
+    text-align: justify;
+    font-size: 24px;
+    font-family: "EB Garamond", serif;
+
+}
+.texto{
+    display: flex;
+    text-align: justify;
+    font-size: 24px;
+     font-family: "EB Garamond", serif;
+
+}
+
+.data{
+    text-align: end;
+    font-size: 24px;
+}
