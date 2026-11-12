@@ -13,26 +13,20 @@ footer{
     box-sizing: border-box;
 }
 
-a{
+h1{
     margin: auto;
     margin-top: 2%;
     display: flex;
     flex-direction: column;
     text-align: center;
-    text-decoration: none;
-    font-size: 28px;
-    font-style: italic;
-    font-weight: bolder;
+    font-size: 22px;
     color: rgb(244, 228, 199);
-    width:fit-content;
-    background: #e12020e1;
-    padding: 1%;
-    border-radius: 1%;
+    
+ 
 }
 
 .divTotal{
     flex-direction: column;
-    gap: 20px;
     margin: auto;
     padding: 3%;
     max-width: 800px;
@@ -40,26 +34,22 @@ a{
 }
 
 h3{
-    font-size: 26px;
+    font-size: 18px;
     font-style: italic;
 }
 
 .musica{
     display: flex;
     text-align: start;
-    font-size: 24px;
-    font-family: "EB Garamond", serif;
-
+    font-size: 16px;
 }
 .texto{
     display: flex;
     text-align: start;
-    font-size: 24px;
-     font-family: "EB Garamond", serif;
-
+    font-size: 16px;
 }
 
 .data{
     text-align: end;
-    font-size: 24px;
+    font-size: 16px;
 }
