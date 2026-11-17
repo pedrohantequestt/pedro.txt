@@ -1,5 +1,5 @@
 body{
-    background: #4e018d;
+    background: #133087e3;
     color: rgb(244, 228, 199);
     display: flex;
     flex-direction: column;
@@ -31,14 +31,17 @@ h1{
     padding: 3%;
     max-width: 800px;
     letter-spacing: 2px;
-    gap: 10px;
+    gap: 0px;
   
+}
+h4{
+    margin: 0px;
 }
 
 h3{
     font-size: 18px;
     font-family: sans-serif;
-    margin-bottom: 3%
+    margin-bottom: 4%:;
 }
 
 img{
@@ -47,35 +50,46 @@ img{
     height: auto;         
     display: block;
     background: #fff3de;
+
 }
 
-.poema{
-    font-size: 22px;
-    margin: 0px;
-    margin-bottom: 1%;
+.imgt{
+    font-size: 20px;
 }
 
 .musica{
     display: flex;
     text-align: start;
-    font-size: 16px;
+    font-size: 20px;
 
 }
 .texto{
     display: flex;
     text-align: start;
-    font-size: 16px;
+    font-size: 20px;
+    display: flex;
+    flex-direction: column;  
 }
 
 .divPoema{
-     font-family: crispo, sans-serif;
-     font-size: 16px;
+     font-size: 22px;
      font-family: "Zeyada", cursive;
-     font-weight: 600;
+     font-weight: 400;
+     line-height: 1.3;
+     white-space:pre-line;
+     margin-top: 0px ;
+    
 }
 
 .data{
     text-align: end;
-    font-size: 16px;
+    font-size: 18px;
 }
 
+span{
+    font-style: italic;
+}
+
+p{
+    margin-top: 1.8%;
+}
